@@ -1,6 +1,6 @@
 # Data-driven Chatbot Platform
 
-![chatbot](https://github.com/AndersonChoi/smartone-hackathon/screenshoot/bot-screenshot.png)
+![chatbot](https://github.com/AndersonChoi/smartone-hackathon/raw/master/screenshoot/bot-screenshot.png)
 
 ## Description
 
@@ -15,7 +15,7 @@ We implemented chatbot using AWS Lex and mongoDB as database. We used influxdb f
 
 ## Architecture
 
-![architecture](https://github.com/AndersonChoi/smartone-hackathon/screenshoot/architecture.png)
+![architecture](https://github.com/AndersonChoi/smartone-hackathon/raw/master/screenshoot/architecture.png)
 
 ## Technical info
 
